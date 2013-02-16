@@ -1,4 +1,4 @@
 100daylang
 ==========
 
-logic for stuff
+A way of making a spanish vocab list populate itself
